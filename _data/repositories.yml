@@ -6,4 +6,6 @@ repo_description_lines_max: 2
 github_repos:
   - RiccardoPerin/MRI_Tumor_Classification
   - RiccardoPerin/scadenziario-demo
-  # add more repos here, e.g. the NICU thesis notebook and ZeroStress
+  - RiccardoPerin/SCBU-Admission-Prediction
+  - RiccardoPerin/ZeroStress
+  - RiccardoPerin/FetalHealth
