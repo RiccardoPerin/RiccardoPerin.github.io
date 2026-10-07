@@ -12,6 +12,7 @@ related_publications: true
 **My role:** ResNet-50 lead, pipeline refactoring, co-author of the paper
 **Tools:** Python · PyTorch · Google Colab · LaTeX
 **Code:** [RiccardoPerin/MRI_Tumor_Classification](https://github.com/RiccardoPerin/MRI_Tumor_Classification)
+**Paper:** [PDF](/assets/pdf/en-us/Brain_Tumor_MRI_Classification_Without_Synthetic_Data_Augmentation__A_Comparative_Study_of_a_Frozen_Autoencoder__ResNet_50__and_ViT_B_16__7_.pdf)
 
 ### Question
 
