@@ -8,10 +8,12 @@ category: research
 ---
 
 **Dove:** KTH Royal Institute of Technology, Stoccolma · **Quando:** febbraio – settembre 2027 · **Stato:** in arrivo
+**Progetto:** [Explainable AI driven user-friendly toolkit for assessing cancer risk from environmental factors](https://www.digitalfutures.kth.se/project/explainable-ai-driven-user-friendly-toolkit-for-assessing-cancer-risk-from-environmental-factors/) (Digital Futures, KTH)
 
 ### Argomento
 
 La mia tesi magistrale svilupperà **modelli di machine learning interpretabili che stimano il rischio oncologico a partire da fattori di esposizione ambientale**. L'obiettivo sono spiegazioni significative sia a livello di popolazione (quali esposizioni incidono di più sul rischio) sia per il singolo individuo (perché il rischio stimato per una persona è alto o basso).
+La tesi si inserisce in un progetto di ricerca Digital Futures del KTH che sta sviluppando un toolkit open-source e spiegabile per aiutare i clinici a stimare in modo personalizzato il rischio di tumore al seno e alla prostata a partire da fattori genetici, ambientali ed epigenetici, usando i registri sanitari nazionali svedesi.
 
 ### Preparazione
 
