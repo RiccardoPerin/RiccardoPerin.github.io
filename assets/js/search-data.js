@@ -48,8 +48,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-graduated-in-biomedical-engineering-at-the-university-of-padova-with-110-110-cum-laude-and-started-the-msc-in-bioengineering",
-          title: 'Graduated in Biomedical Engineering at the University of Padova with 110/110 cum laude...',
+        },{id: "news-graduated-in-biomedical-engineering-at-the-university-of-padova-with-110-110-and-started-the-msc-in-bioengineering",
+          title: 'Graduated in Biomedical Engineering at the University of Padova with 110/110 and started...',
           description: "",
           section: "News",},{id: "news-the-compliance-management-system-i-built-for-a-construction-company-is-now-in-production",
           title: 'The compliance management system I built for a construction company is now in...',
