@@ -113,13 +113,6 @@ ninja.data = [{
           window.open("https://github.com/RiccardoPerin", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Social',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/riccardo-perin", "_blank");
-        },
-      },{
           id: 'lang-en-us',
           title: 'en-us',
           section: 'Lingue',
