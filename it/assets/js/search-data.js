@@ -73,6 +73,11 @@ ninja.data = [{
           description: "Digital twin e AI per la gestione adattiva del diabete di tipo 1 pediatrico",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/diana/";
+            },},{id: "projects-fetal-health-classification-from-ctg",
+          title: 'Fetal health classification from CTG',
+          description: "Interpretable tree-based models on cardiotocography data, in Python and R",
+          section: "Progetti",handler: () => {
+              window.location.href = "/it/projects/fetal-health/";
             },},{id: "projects-ai-spiegabile-per-il-rischio-oncologico",
           title: 'AI spiegabile per il rischio oncologico',
           description: "Tesi magistrale Erasmus+ al KTH di Stoccolma (da febbraio 2027)",
