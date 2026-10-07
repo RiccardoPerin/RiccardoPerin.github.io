@@ -8,7 +8,7 @@ category: research
 related_publications: true
 ---
 
-**Context:** BSc thesis in Biomedical Engineering, University of Padova (final grade 110/110 cum laude)
+**Context:** BSc thesis in Biomedical Engineering, University of Padova (final grade 110/110)
 **Tools:** Python · scikit-learn · pandas
 <!-- **Code:** [RiccardoPerin/REPO-NAME](https://github.com/RiccardoPerin/REPO-NAME) -->
 
