@@ -90,7 +90,7 @@ ninja.data = [{
               window.location.href = "/it/projects/scadenziario/";
             },},{id: "projects-progetti-personali",
           title: 'Progetti personali',
-          description: "Predittore per F1 Fantasy, PokerStats e un&#39;app per la palestra",
+          description: "Predittore per F1 Fantasy e un&#39;app per la palestra",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/side-projects/";
             },},{id: "projects-zerostress",
