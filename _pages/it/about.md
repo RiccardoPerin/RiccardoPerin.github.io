@@ -12,6 +12,7 @@ profile:
   more_info: >
     <p>Padova, Italia</p>
     <p>Stoccolma, Svezia (da feb 2027)</p>
+    <p><a href="mailto:riccardo.perin.2@studenti.unipd.it">riccardo.perin.2@studenti.unipd.it</a></p>
 
 news: true
 latest_posts: false
