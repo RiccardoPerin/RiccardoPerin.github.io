@@ -90,7 +90,7 @@ ninja.data = [{
               window.location.href = "/projects/scadenziario/";
             },},{id: "projects-side-projects",
           title: 'Side projects',
-          description: "F1 Fantasy predictor, PokerStats and a gym tracker",
+          description: "F1 Fantasy predictor and a gym tracker",
           section: "Projects",handler: () => {
               window.location.href = "/projects/side-projects/";
             },},{id: "projects-zerostress",
@@ -111,6 +111,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/RiccardoPerin", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/riccardo-perin", "_blank");
         },
       },{
           id: 'lang-it',
