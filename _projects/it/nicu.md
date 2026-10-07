@@ -10,7 +10,7 @@ related_publications: true
 
 **Contesto:** tesi triennale in Ingegneria Biomedica, Università di Padova (voto finale 110/110)
 **Strumenti:** Python · scikit-learn · pandas
-<!-- **Codice:** [RiccardoPerin/REPO-NAME](https://github.com/RiccardoPerin/REPO-NAME) -->
+**Code:** [RiccardoPerin/SCBU-Admission-Prediction](https://github.com/RiccardoPerin/SCBU-Admission-Prediction)
 
 ### Il problema
 
