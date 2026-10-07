@@ -69,7 +69,7 @@
 - title: Research Interests
   type: list
   contents:
-    - Hybrid mechanistic–ML models — digital twins, physiological and pharmacometric (PK/PD) modelling, neural ODEs
+    - Hybrid mechanistic–ML models — digital twins, physiological and pharmacometric (PK/PD/NLME) modelling, neural ODEs
     - Interpretable machine learning on clinical and omics data
     - Computational approaches to cancer risk and early detection
     - Deep learning for biomedical signals and images
