@@ -120,6 +120,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/riccardo-perin", "_blank");
         },
       },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Social',
+        handler: () => {
+          window.open("/assets/pdf/it//assets/pdf/en-us/CV_Riccardo_Perin.pdf", "_blank");
+        },
+      },{
           id: 'lang-en-us',
           title: 'en-us',
           section: 'Lingue',
