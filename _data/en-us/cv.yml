@@ -17,20 +17,20 @@
   contents:
     - title: Erasmus+ Master's thesis
       institution: KTH Royal Institute of Technology, Stockholm, Sweden
-      year: Feb 2027 – Sep 2027
+      year: Feb 2027 – Jul 2027
       description:
         - Thesis on explainable AI for cancer risk assessment from environmental exposure factors.
-    - title: MSc in Bioengineering
+    - title: MSc in Bioengineering - Biomedical Modelling and Data Analysis
       institution: University of Padova, Italy
-      year: 2025 – 2027 # check
+      year: Sep 2025 – 2027
       description:
         - Focus on machine learning, biomedical data analysis and computational modelling.
-        - Coursework includes Neural Networks, Learning from Networks (GNNs), Computational Genomics, Biomedical Data Analysis and Systems Biology.
-    - title: BSc in Biomedical Engineering — 110/110 cum laude
+        - Coursework includes Pharmacometrics, Modelling Methodologies, Neural Networks, Machine Learning, Reinforcement Learning, AI, Computer Vision and Biomedical Data Analysis.
+    - title: BSc in Biomedical Engineering — 110/110
       institution: University of Padova, Italy
-      year: 2022 – 2025 # check
+      year: Sep 2022 – Jul 2025
       description:
-        - Thesis on machine-learning prediction of NICU admission from perinatal clinical data (Random Forest, ROC AUC 0.80).
+        - Thesis on machine learning prediction of SCBU admission from clinical data (Random Forest, F1-score 0.70, Unbalanced data distribution).
 
 - title: Experience
   type: time_table
@@ -62,14 +62,14 @@
     - name: Data & scientific computing
       value: Python, pandas, NumPy, MATLAB, R, SQL, Jupyter
     - name: Software
-      value: Flutter/Dart, HTML/CSS/JavaScript, Firebase, PocketBase, REST APIs, Bluetooth Low Energy
+      value: Flutter/Dart, HTML/CSS/JavaScript, PocketBase, REST APIs
     - name: Tools
       value: Git/GitHub, Docker, Linux servers, nginx, LaTeX
 
 - title: Research Interests
   type: list
   contents:
-    - Interpretable machine learning on clinical and omics data
     - Hybrid mechanistic–ML models — digital twins, physiological and pharmacometric (PK/PD) modelling, neural ODEs
+    - Interpretable machine learning on clinical and omics data
     - Computational approaches to cancer risk and early detection
     - Deep learning for biomedical signals and images
