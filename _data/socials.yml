@@ -6,4 +6,4 @@ github_username: RiccardoPerin
 linkedin_username: riccardo-perin
 # orcid_id: 0000-0000-0000-0000                # TODO: create one at orcid.org (free) and fill in
 # scholar_userid: your-scholar-id              # once you have a Google Scholar profile
-# cv_pdf: /assets/pdf/en-us/CV_Riccardo_Perin.pdf   # uncomment after adding the PDFs (one per language)
+cv_pdf: /assets/pdf/en-us/CV_Riccardo_Perin.pdf   # uncomment after adding the PDFs (one per language)
