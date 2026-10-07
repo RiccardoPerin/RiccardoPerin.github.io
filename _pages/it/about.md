@@ -14,7 +14,10 @@ profile:
     <p>Stoccolma, Svezia (da feb 2027)</p>
     <p><a href="mailto:riccardo.perin.2@studenti.unipd.it">riccardo.perin.2@studenti.unipd.it</a></p>
 
-news: true
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
 latest_posts: false
 selected_papers: true
 social: true
