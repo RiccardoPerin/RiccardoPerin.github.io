@@ -10,7 +10,7 @@ related_publications: true
 
 **Context:** BSc thesis in Biomedical Engineering, University of Padova (final grade 110/110)
 **Tools:** Python · scikit-learn · pandas
-<!-- **Code:** [RiccardoPerin/REPO-NAME](https://github.com/RiccardoPerin/REPO-NAME) -->
+**Code:** [RiccardoPerin/SCBU-Admission-Prediction](https://github.com/RiccardoPerin/SCBU-Admission-Prediction)
 
 ### The problem
 
