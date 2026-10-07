@@ -17,33 +17,33 @@
   contents:
     - title: Tesi magistrale Erasmus+
       institution: KTH Royal Institute of Technology, Stoccolma, Svezia
-      year: feb 2027 – set 2027
+      year: feb 2027 – lug 2027
       description:
-        - Tesi sull'AI spiegabile per la valutazione del rischio oncologico a partire da fattori di esposizione ambientale.
+        - Tesi sull'explainable AI per la valutazione del rischio oncologico a partire da fattori di esposizione ambientale.
     - title: Laurea Magistrale in Bioingegneria
-      institution: Università di Padova
-      year: 2025 – 2027 # check
+      institution: Università di Padova - Modellazione e Analisi di Dati Biologici
+      year: set 2025 – 2027
       description:
         - Percorso incentrato su machine learning, analisi di dati biomedici e modellazione computazionale.
-        - Tra i corsi Neural Networks, Learning from Networks (GNN), Computational Genomics, Biomedical Data Analysis e Systems Biology.
-    - title: Laurea Triennale in Ingegneria Biomedica — 110/110 e lode
+        - Tra i corsi Pharmacometrics, Modelling Methodologies, Neural Networks, Machine Learning, Reinforcement Learning, AI, Computer Vision and Biomedical Data Analysis.
+    - title: Laurea Triennale in Ingegneria Biomedica — 110/110
       institution: Università di Padova
-      year: 2022 – 2025 # check
+      year: set 2022 – lug 2025 
       description:
-        - Tesi sulla previsione con machine learning del ricovero in terapia intensiva neonatale da dati clinici perinatali (Random Forest, ROC AUC 0,80).
+        - Tesi sulla previsione con machine learning del ricovero in terapia intensiva neonatale da dati clinici (Random Forest, F1-score 0.70, Forte sbilanciamento dei dati).
 
 - title: Esperienza
   type: time_table
   contents:
     - title: Studente collaboratore di ricerca — progetto DIANA
       institution: Università di Padova
-      year: 2026 – oggi # check
+      year: 2026 – oggi
       description:
         - DIANA sviluppa un digital twin e strumenti di AI per la gestione adattiva del diabete di tipo 1 pediatrico in terapia multi-iniettiva.
         - Sviluppo di un modello di machine learning per il rilevamento dei pasti dai dati di monitoraggio continuo del glucosio.
     - title: Tutor didattico — Informatica, programmazione in Python
       institution: Università di Padova
-      year: 2026 – oggi # check
+      year: 2026 – oggi
       description:
         - Supporto didattico agli studenti nell'apprendimento della programmazione in Python, dalle basi al problem solving.
         - Aiuto nel debug del codice, nel ragionamento sugli algoritmi e nella preparazione agli esami.
@@ -69,7 +69,7 @@
 - title: Interessi di ricerca
   type: list
   contents:
+    - Modelli ibridi meccanicistici–ML — digital twin, modellazione fisiologica e farmacometrica (PK/PD/NLME), neural ODE
     - Machine learning interpretabile su dati clinici e omici
-    - Modelli ibridi meccanicistici–ML — digital twin, modellazione fisiologica e farmacometrica (PK/PD), neural ODE
     - Approcci computazionali al rischio e alla diagnosi precoce del cancro
     - Deep learning per segnali e immagini biomediche
