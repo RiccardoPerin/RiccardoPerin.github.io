@@ -1,0 +1,164 @@
+archive:
+  prefix: un archivio di
+  category_suffix: in questa categoria
+  tag_suffix: con questo tag
+  year_suffix: di quest'anno
+bibliography:
+  abstract: Abs
+  awarded: Premiato
+  blog: Blog
+  book_prefix: In
+  code: Codice
+  last_author_prefix: e
+  poster: Poster
+  slides: Slide
+  supp: Supp
+  video: Video
+  website: Sito web
+blog:
+  navigation_title: blog
+categories:
+  research: ricerca
+  ml: machine learning
+  software: software
+citation:
+  bibtex: 'oppure come voce BibTeX:'
+  introduction: 'Se ti è stato utile, citalo così:'
+collections:
+  books: libri
+  posts: post
+contact_note: L'email è il modo migliore per contattarmi. Sto cercando un dottorato con inizio nell'autunno 2027.
+cv:
+  address: Indirizzo
+  area: Area
+  awarder: Ente
+  awards: Premi
+  basics: Informazioni generali
+  certificates: Certificati
+  city: Città
+  countryCode: Codice paese
+  courses: Corsi
+  date: Data
+  education: Formazione
+  email: Email
+  endDate: Data di fine
+  fluency: Livello
+  highlights: Punti salienti
+  image: Immagine
+  institution: Istituzione
+  interests: Interessi
+  issuer: Emittente
+  keywords: Parole chiave
+  label: Etichetta
+  language: Lingua
+  languages: Lingue
+  level: Livello
+  location: Luogo
+  name: Nome
+  network: Rete
+  organization: Organizzazione
+  phone: Telefono
+  position: Ruolo
+  postalCode: CAP
+  present: Oggi
+  profiles: Profili
+  projects: Progetti
+  publications: Pubblicazioni
+  publisher: Editore
+  reference: Referenza
+  references: Referenze
+  region: Regione
+  releaseDate: Data di uscita
+  score: Punteggio
+  skills: Competenze
+  startDate: Data di inizio
+  studyType: Titolo
+  summary: Sommario
+  table_of_contents: Indice
+  title: Titolo
+  url: Url
+  username: Username
+  volunteer: Volontariato
+  work: Esperienza
+footer:
+  copyright: Copyright
+  last_updated: 'Ultimo aggiornamento:'
+footer_text: 'Realizzato con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> e il tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>. Ospitato su <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+  '
+latest_posts: ultimi post
+months:
+  long:
+    january: Gennaio
+    february: Febbraio
+    march: Marzo
+    april: Aprile
+    may: Maggio
+    june: Giugno
+    july: Luglio
+    august: Agosto
+    september: Settembre
+    october: Ottobre
+    november: Novembre
+    december: Dicembre
+  short:
+    january: Gen
+    february: Feb
+    march: Mar
+    april: Apr
+    may: Mag
+    june: Giu
+    july: Lug
+    august: Ago
+    september: Set
+    october: Ott
+    november: Nov
+    december: Dic
+news: novità
+newsletter:
+  back: Indietro
+  error: Ops! Qualcosa è andato storto, riprova.
+  subscribe: iscriviti
+  subscribed: Iscrizione alla newsletter completata.
+  subscribe_to_receive: 'Iscriviti per ricevere i prossimi articoli:'
+  too_many_signups: Troppe iscrizioni, riprova tra poco
+  wait: Attendere...
+no_news: Nessuna novità per ora...
+no_posts: Nessun post per ora...
+pagination:
+  page: pagina
+post:
+  created_in: Creato il
+  created_by: da
+  last_updated: ultimo aggiornamento il
+references: Bibliografia
+related_posts:
+  description: 'Altri articoli che potrebbero interessarti:'
+  title: Ti è piaciuto questo articolo?
+search:
+  dark_theme:
+    description: Passa al tema scuro
+    title: Tema scuro
+  dropdown: Menu
+  email: Invia un'email
+  footer:
+    close: per chiudere
+    navigate: per navigare
+    parent: livello superiore
+    select: per selezionare
+  languages: Lingue
+  light_theme:
+    description: Passa al tema chiaro
+    title: Tema chiaro
+  navigation: Menu di navigazione
+  news: Novità
+  placeholder: Scrivi per cercare
+  posts: Post
+  projects: Progetti
+  socials: Social
+  system_theme:
+    description: Usa il tema di sistema
+    title: Tema di sistema
+  theme: Tema
+selected_publications: pubblicazioni selezionate
+site_description: Riccardo Perin — studente di Bioingegneria all'Università di Padova. Machine learning per la medicina.

@@ -1,0 +1,9 @@
+# Social links shown at the bottom of the home page, in this order.
+# Full list of supported keys: https://github.com/george-gca/multi-language-al-folio/blob/main/_data/socials.yml (upstream)
+
+email: riccardo.perin03@gmail.com
+github_username: RiccardoPerin
+# linkedin_username: your-linkedin-handle      # TODO: uncomment and fill in
+# orcid_id: 0000-0000-0000-0000                # TODO: create one at orcid.org (free) and fill in
+# scholar_userid: your-scholar-id              # once you have a Google Scholar profile
+# cv_pdf: /assets/pdf/[LANG]/CV_Riccardo_Perin.pdf   # uncomment after adding the PDFs (one per language)

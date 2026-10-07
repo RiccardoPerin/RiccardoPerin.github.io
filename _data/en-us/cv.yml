@@ -1,0 +1,75 @@
+# TODO: check every year marked "# check" below
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Riccardo Perin
+    - name: Based in
+      value: Padova, Italy · Stockholm, Sweden from February 2027
+    - name: Languages
+      value: Italian (native), English (C1, IELTS 8.0)
+    - name: Looking for
+      value: PhD positions starting autumn 2027
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Erasmus+ Master's thesis
+      institution: KTH Royal Institute of Technology, Stockholm, Sweden
+      year: Feb 2027 – Sep 2027
+      description:
+        - Thesis on explainable AI for cancer risk assessment from environmental exposure factors.
+    - title: MSc in Bioengineering
+      institution: University of Padova, Italy
+      year: 2025 – 2027 # check
+      description:
+        - Focus on machine learning, biomedical data analysis and computational modelling.
+        - Coursework includes Neural Networks, Learning from Networks (GNNs), Computational Genomics, Biomedical Data Analysis and Systems Biology.
+    - title: BSc in Biomedical Engineering — 110/110 cum laude
+      institution: University of Padova, Italy
+      year: 2022 – 2025 # check
+      description:
+        - Thesis on machine-learning prediction of NICU admission from perinatal clinical data (Random Forest, ROC AUC 0.80).
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Student research collaborator — DIANA project
+      institution: University of Padova, Italy
+      year: 2026 – present # check
+      description:
+        - DIANA develops a digital twin and AI tools for adaptive management of paediatric Type 1 Diabetes under multiple daily injections.
+        - Developing a machine-learning model for meal detection from continuous glucose monitoring data.
+    - title: Tutor — Informatics, programming in Python
+      institution: University of Padova, Italy
+      year: 2026 – present # check
+      description:
+        - Academic support to students learning to program in Python, from the fundamentals to problem solving.
+        - Helping students debug their code, reason about algorithms and prepare for exams.
+    - title: Software developer (freelance)
+      institution: Construction company, Veneto, Italy
+      year: 2026 – present
+      description:
+        - Sole developer of a compliance and expiry-tracking system in daily production use since August 2026 (Flutter Web, PocketBase, Linux VPS, nginx).
+        - Versioned documents, configurable alerts and automated daily email digests for office staff and subcontractors.
+
+- title: Skills
+  type: map
+  contents:
+    - name: Machine learning
+      value: PyTorch, scikit-learn, CNNs, Vision Transformers, autoencoders, tree ensembles, explainability
+    - name: Data & scientific computing
+      value: Python, pandas, NumPy, MATLAB, R, SQL, Jupyter
+    - name: Software
+      value: Flutter/Dart, HTML/CSS/JavaScript, Firebase, PocketBase, REST APIs, Bluetooth Low Energy
+    - name: Tools
+      value: Git/GitHub, Docker, Linux servers, nginx, LaTeX
+
+- title: Research Interests
+  type: list
+  contents:
+    - Interpretable machine learning on clinical and omics data
+    - Hybrid mechanistic–ML models — digital twins, physiological and pharmacometric (PK/PD) modelling, neural ODEs
+    - Computational approaches to cancer risk and early detection
+    - Deep learning for biomedical signals and images
