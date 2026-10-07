@@ -48,8 +48,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it/repositories/";
           },
-        },{id: "news-laureato-in-ingegneria-biomedica-all-università-di-padova-con-110-110-e-lode-inizio-della-magistrale-in-bioingegneria",
-          title: 'Laureato in Ingegneria Biomedica all’Università di Padova con 110/110 e lode; inizio della...',
+        },{id: "news-laureato-in-ingegneria-biomedica-all-università-di-padova-con-110-110-inizio-della-magistrale-in-bioingegneria",
+          title: 'Laureato in Ingegneria Biomedica all’Università di Padova con 110/110; inizio della magistrale in...',
           description: "",
           section: "Novità",},{id: "news-il-gestionale-per-la-conformità-documentale-che-ho-sviluppato-per-un-impresa-edile-è-ora-in-produzione",
           title: 'Il gestionale per la conformità documentale che ho sviluppato per un’impresa edile è...',
