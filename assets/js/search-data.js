@@ -96,11 +96,6 @@ ninja.data = [{
           description: "A management system used daily by a construction company, with a public demo",
           section: "Projects",handler: () => {
               window.location.href = "/projects/scadenziario/";
-            },},{id: "projects-side-projects",
-          title: 'Side projects',
-          description: "F1 Fantasy predictor and a gym tracker",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/side-projects/";
             },},{id: "projects-zerostress",
           title: 'ZeroStress',
           description: "Flutter app for stress and recovery monitoring with wearable sensors",

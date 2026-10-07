@@ -96,11 +96,6 @@ ninja.data = [{
           description: "Un gestionale usato ogni giorno da un&#39;impresa edile, con una demo pubblica",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/scadenziario/";
-            },},{id: "projects-progetti-personali",
-          title: 'Progetti personali',
-          description: "Predittore per F1 Fantasy e un&#39;app per la palestra",
-          section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/side-projects/";
             },},{id: "projects-zerostress",
           title: 'ZeroStress',
           description: "App Flutter per il monitoraggio di stress e recupero con sensori indossabili",
