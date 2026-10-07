@@ -7,12 +7,12 @@ importance: 2
 category: ml
 ---
 
-**Tools:** Python (scikit-learn, pandas, seaborn) · R (caret, rpart, randomForest, gbm)
-**Code:** [RiccardoPerin/FetalHealth](https://github.com/RiccardoPerin/FetalHealth)
+**Tools:** Python (scikit-learn, pandas, seaborn) · R (caret, rpart, randomForest, gbm) <br>
+**Code:** [RiccardoPerin/FetalHealth](https://github.com/RiccardoPerin/FetalHealth) <br>
 
 ### The problem
 
-Cardiotocography (CTG) monitors the foetal heart rate and uterine contractions during pregnancy, and is one of the main tools for spotting foetal distress. Reading CTG traces is time-consuming and varies between clinicians, so a reliable automatic screen could help flag the cases that need attention first.
+Cardiotocography (CTG) monitors the fetal heart rate and uterine contractions during pregnancy, and is one of the main tools for spotting fetal distress. Reading CTG traces is time-consuming and varies between clinicians, so a reliable automatic screen could help flag the cases that need attention first.
 
 ### Data
 

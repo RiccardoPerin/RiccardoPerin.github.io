@@ -5,6 +5,7 @@ title: Progetti personali
 description: Predittore per F1 Fantasy e un'app per la palestra
 importance: 3
 category: software
+published: false
 ---
 
 Cose che costruisco per divertimento, di solito per provare uno strumento nuovo.

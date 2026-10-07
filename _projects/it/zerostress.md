@@ -7,8 +7,8 @@ importance: 2
 category: software
 ---
 
-**Strumenti:** Flutter · Dart · Provider · REST API · Bluetooth Low Energy
-<!-- **Codice:** [RiccardoPerin/REPO-NAME](https://github.com/RiccardoPerin/REPO-NAME) -->
+**Strumenti:** Flutter · Dart · Provider · REST API · Bluetooth Low Energy <br>
+**Codice:** [RiccardoPerin/ZeroStress](https://github.com/RiccardoPerin/ZeroStress) <br>
 
 Un'app mobile che trasforma i dati di frequenza cardiaca dei dispositivi **Polar** in indicatori di stress e recupero, integrata con **IMPACT**, la piattaforma di ricerca sui dispositivi indossabili dell'Università di Padova.
 

@@ -9,8 +9,9 @@ category: research
 
 <!-- Prima di aggiungere risultati, figure o codice, verifica con i responsabili di DIANA cosa può essere pubblico. -->
 
-**Ruolo:** studente collaboratore di ricerca, Università di Padova · **Stato:** in corso (fase esplorativa e di prototipazione)
-**Strumenti:** Python · pandas · scikit-learn · PyTorch
+**Ruolo:** studente collaboratore di ricerca, Università di Padova <br>
+**Stato:** in corso (fase esplorativa e di prototipazione) <br>
+**Strumenti:** Python · pandas · scikit-learn · PyTorch <br>
 
 ### Il problema
 

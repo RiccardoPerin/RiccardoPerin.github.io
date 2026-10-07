@@ -7,9 +7,10 @@ importance: 1
 category: software
 ---
 
-**Stato:** in produzione da agosto 2026 · unico sviluppatore
-**Strumenti:** Flutter Web · Dart · PocketBase · nginx · VPS Linux · Docker
-**Demo:** [riccardoperin.github.io/scadenziario-demo](https://riccardoperin.github.io/scadenziario-demo/) (accesso `demo@demo.it` / `demodemo`) · **Codice:** [RiccardoPerin/scadenziario-demo](https://github.com/RiccardoPerin/scadenziario-demo)
+**Stato:** in produzione da agosto 2026 · unico sviluppatore <br>
+**Strumenti:** Flutter Web · Dart · PocketBase · nginx · VPS Linux · Docker <br>
+**Demo:** [riccardoperin.github.io/scadenziario-demo](https://riccardoperin.github.io/scadenziario-demo/) (accesso `demo@demo.it` / `demodemo`) <br>
+**Codice:** [RiccardoPerin/scadenziario-demo](https://github.com/RiccardoPerin/scadenziario-demo) <br>
 
 ### Perché esiste
 

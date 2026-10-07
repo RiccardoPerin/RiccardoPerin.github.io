@@ -8,11 +8,11 @@ category: ml
 related_publications: true
 ---
 
-**Contesto:** corso di Neural Networks, Università di Padova · team di tre, con Giovanni Zatti e Marcello Pennino
-**Il mio ruolo:** responsabile della parte ResNet-50, refactoring della pipeline, coautore del paper
-**Strumenti:** Python · PyTorch · Google Colab · LaTeX
-**Codice:** [RiccardoPerin/MRI_Tumor_Classification](https://github.com/RiccardoPerin/MRI_Tumor_Classification)
-**Paper:** [PDF](/assets/pdf/it/Brain_Tumor_MRI_Classification_Without_Synthetic_Data_Augmentation__A_Comparative_Study_of_a_Frozen_Autoencoder__ResNet_50__and_ViT_B_16__7_.pdf)
+**Contesto:** corso di Neural Networks, Università di Padova · team di tre, con Giovanni Zatti e Marcello Pennino <br>
+**Il mio ruolo:** responsabile della parte ResNet-50, refactoring della pipeline, coautore del paper <br>
+**Strumenti:** Python · PyTorch · Google Colab · LaTeX <br>
+**Codice:** [RiccardoPerin/MRI_Tumor_Classification](https://github.com/RiccardoPerin/MRI_Tumor_Classification) <br>
+**Paper:** [PDF](/assets/pdf/it/Brain_Tumor_MRI_Classification_Without_Synthetic_Data_Augmentation__A_Comparative_Study_of_a_Frozen_Autoencoder__ResNet_50__and_ViT_B_16__7_.pdf) <br>
 
 ### La domanda
 

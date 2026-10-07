@@ -5,6 +5,7 @@ title: Side projects
 description: F1 Fantasy predictor and a gym tracker
 importance: 3
 category: software
+published: false
 ---
 
 Things I build for fun, usually to try out a new tool.

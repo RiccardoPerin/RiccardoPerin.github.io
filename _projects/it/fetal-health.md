@@ -7,8 +7,8 @@ importance: 2
 category: ml
 ---
 
-**Strumenti:** Python (scikit-learn, pandas, seaborn) · R (caret, rpart, randomForest, gbm)
-**Codice:** [RiccardoPerin/FetalHealth](https://github.com/RiccardoPerin/FetalHealth)
+**Strumenti:** Python (scikit-learn, pandas, seaborn) · R (caret, rpart, randomForest, gbm) <br>
+**Codice:** [RiccardoPerin/FetalHealth](https://github.com/RiccardoPerin/FetalHealth) <br>
 
 ### Il problema
 
