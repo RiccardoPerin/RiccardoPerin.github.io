@@ -7,8 +7,10 @@ importance: 2
 category: research
 ---
 
-**Dove:** KTH Royal Institute of Technology, Stoccolma · **Quando:** febbraio – settembre 2027 · **Stato:** in arrivo
-**Progetto:** [Explainable AI driven user-friendly toolkit for assessing cancer risk from environmental factors](https://www.digitalfutures.kth.se/project/explainable-ai-driven-user-friendly-toolkit-for-assessing-cancer-risk-from-environmental-factors/) (Digital Futures, KTH)
+**Dove:** KTH Royal Institute of Technology, Stoccolma<br>
+**Quando:** febbraio – luglio 2027<br>
+**Stato:** in arrivo<br>
+**Progetto:** [Explainable AI driven user-friendly toolkit for assessing cancer risk from environmental factors](https://www.digitalfutures.kth.se/project/explainable-ai-driven-user-friendly-toolkit-for-assessing-cancer-risk-from-environmental-factors/) (Digital Futures, KTH)<br>
 
 ### Argomento
 
@@ -17,6 +19,6 @@ La tesi si inserisce in un progetto di ricerca Digital Futures del KTH che sta s
 
 ### Preparazione
 
-Prima di partire per la Svezia sto seguendo corsi aggiuntivi direttamente collegati a questo lavoro: Learning from Networks (graph neural network), Computational Genomics, Biomedical Data Analysis e Systems Biology.
+Prima di partire per la Svezia sto seguendo corsi aggiuntivi direttamente collegati a questo lavoro: Reinforcement Learning, Foundations of AI, Biomedical Data Analysis e Systems Biology.
 
 Aggiornerò questa pagina man mano che il progetto procede.
