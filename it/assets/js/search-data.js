@@ -73,9 +73,9 @@ ninja.data = [{
           description: "Digital twin e AI per la gestione adattiva del diabete di tipo 1 pediatrico",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/diana/";
-            },},{id: "projects-fetal-health-classification-from-ctg",
-          title: 'Fetal health classification from CTG',
-          description: "Interpretable tree-based models on cardiotocography data, in Python and R",
+            },},{id: "projects-classificazione-della-salute-fetale-da-ctg",
+          title: 'Classificazione della salute fetale da CTG',
+          description: "Modelli ad albero interpretabili su dati di cardiotocografia, in Python e R",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/fetal-health/";
             },},{id: "projects-ai-spiegabile-per-il-rischio-oncologico",
