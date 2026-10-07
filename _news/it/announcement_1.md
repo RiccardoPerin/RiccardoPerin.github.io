@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Laureato in Ingegneria Biomedica all'Università di Padova con **110/110 e lode**; inizio della magistrale in Bioingegneria.
+Laureato in Ingegneria Biomedica all'Università di Padova con **110/110**; inizio della magistrale in Bioingegneria.
