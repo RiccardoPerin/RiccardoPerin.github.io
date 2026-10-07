@@ -30,7 +30,7 @@
       institution: University of Padova, Italy
       year: Sep 2022 – Jul 2025
       description:
-        - Thesis on machine learning prediction of SCBU admission from clinical data (Random Forest, F1-score 0.70, Unbalanced data distribution).
+        - Thesis on machine learning prediction of SCBU admission from clinical data (Random Forest, ROC-AUC 0.80, F1-score 0.66, Unbalanced data distribution).
 
 - title: Experience
   type: time_table

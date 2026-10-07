@@ -30,7 +30,7 @@
       institution: Università di Padova
       year: set 2022 – lug 2025 
       description:
-        - Tesi sulla previsione con machine learning del ricovero in terapia intensiva neonatale da dati clinici (Random Forest, F1-score 0.70, Forte sbilanciamento dei dati).
+        - Tesi sulla previsione con machine learning del ricovero in terapia intensiva neonatale da dati clinici (Random Forest, ROC-AUC 0.80, F1-score 0.66, Forte sbilanciamento dei dati).
 
 - title: Esperienza
   type: time_table
